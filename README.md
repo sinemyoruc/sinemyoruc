@@ -14,7 +14,10 @@
 <p align="left"> 
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+ <a href="https://www.java.com/tr/" target="_blank" rel=”noopener”> <img src="https://static.wikia.nocookie.net/logopedia/images/d/d0/Java.svg/revision/latest?cb=20180314141626" alt="java" width="30" height="30"/> </a>
+  <a href="https://www.javascript.com/" target="_blank" rel=”noopener”> <img src="https://static.wikia.nocookie.net/logopedia/images/d/dd/Js1_0.png/revision/latest?cb=20151111192716" alt="java" width="30" height="30"/> </a>
+ <a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
+ <a href="https://www.python.org/" target="_blank" rel=”noopener”> <img src="https://static.wikia.nocookie.net/logopedia/images/e/e4/Python.png/revision/latest?cb=20130122221055" alt="git" width="30" height="30"/> </a>
 <a href="https://rubyonrails.org" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/> </a> 
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a>
