@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="left">Technologies:</h3>
-<p align="left"> 
+<p align="left">  
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/> </a>
  <a href="https://www.java.com/tr/" target="_blank" rel=”noopener”> <img src="https://static.wikia.nocookie.net/logopedia/images/d/d0/Java.svg/revision/latest?cb=20180314141626" alt="java" width="30" height="30"/> </a>
